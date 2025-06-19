@@ -12,7 +12,7 @@ public class Person implements Serializable {
     private String adrress;
     private String gender;
 
-    public Person(Long id, String firstName, String lastName, String adrress, String gender) {
+    public Person() {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;

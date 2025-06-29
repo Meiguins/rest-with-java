@@ -1,13 +1,3 @@
-          ____
-       _.' :  `._
-   .-.'`.  ;   .'`.-.
-  / : ___\ ;  /___ ; \       REST_WITH_JAVA, o projeto é...
-  ; .`    `|_'    `. ;
-  | ;     / \     ; |
-  \ \_.'`     `'.__//       Um CRUD com Spring Boot, jovem Padawan.
-   '.__   (_)   __.'        Simples pode parecer... mas poderoso se torna.
-       `-.___.-'
-
 # REST_WITH_JAVA 🚀
 
 Bem-vindo ao projeto `REST_WITH_JAVA`!  
@@ -38,3 +28,15 @@ Este projeto implementa as operações básicas de um CRUD (Create, Read, Update
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Meiguins/rest-with-java.git
+
+
+             ____
+       _.' :  `._
+   .-.'`.  ;   .'`.-.
+  / : ___\ ;  /___ ; \       REST_WITH_JAVA, o projeto é...
+  ; .`    `|_'    `. ;
+  | ;     / \     ; |
+  \ \_.'`     `'.__//       Um CRUD com Spring Boot, jovem Padawan.
+   '.__   (_)   __.'        Simples pode parecer... mas poderoso se torna.
+       `-.___.-'
+

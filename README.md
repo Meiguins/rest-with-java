@@ -25,18 +25,33 @@ Este projeto implementa as operações básicas de um CRUD (Create, Read, Update
 
 ## 🚀 Como rodar o projeto
 
-1. Clone este repositório:
+1. Clone este repositório:         ______
+          .-'      `-.
+         /            \
+        |              |
+        |,  .-.  .-.  ,|
+        | )(_o/  \o_)( |
+        |/     /\     \|
+        (_     ^^     _)
+         \__|IIIIII|__/
+          | \IIIIII/ |
+          \          /
+           `--------`
    ```bash
    git clone https://github.com/Meiguins/rest-with-java.git
 
 
-             ____
-       _.' :  `._
-   .-.'`.  ;   .'`.-.
-  / : ___\ ;  /___ ; \       REST_WITH_JAVA, o projeto é...
-  ; .`    `|_'    `. ;
-  | ;     / \     ; |
-  \ \_.'`     `'.__//       Um CRUD com Spring Boot, jovem Padawan.
-   '.__   (_)   __.'        Simples pode parecer... mas poderoso se torna.
-       `-.___.-'
+### Caveira
 
+         ______
+          .-'      `-.
+         /            \
+        |              |
+        |,  .-.  .-.  ,|
+        | )(_o/  \o_)( |
+        |/     /\     \|
+        (_     ^^     _)
+         \__|IIIIII|__/
+          | \IIIIII/ |
+          \          /
+           `--------`

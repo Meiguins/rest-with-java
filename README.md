@@ -37,4 +37,4 @@ Este projeto implementa as operações básicas de um CRUD (Create, Read, Update
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/rest-with-java.git
+   git clone https://github.com/Meiguins/rest-with-java.git

@@ -25,25 +25,13 @@ Este projeto implementa as operações básicas de um CRUD (Create, Read, Update
 
 ## 🚀 Como rodar o projeto
 
-1. Clone este repositório:         ______
-          .-'      `-.
-         /            \
-        |              |
-        |,  .-.  .-.  ,|
-        | )(_o/  \o_)( |
-        |/     /\     \|
-        (_     ^^     _)
-         \__|IIIIII|__/
-          | \IIIIII/ |
-          \          /
-           `--------`
+1. Clone este repositório:  
    ```bash
    git clone https://github.com/Meiguins/rest-with-java.git
 
 
 ### Caveira
 
-         ______
           .-'      `-.
          /            \
         |              |

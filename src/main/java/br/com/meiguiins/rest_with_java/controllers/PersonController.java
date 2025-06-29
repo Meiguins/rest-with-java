@@ -1,7 +1,7 @@
 package br.com.meiguiins.rest_with_java.controllers;
 
 import br.com.meiguiins.rest_with_java.model.Person;
-import br.com.meiguiins.rest_with_java.request.PersonServices;
+import br.com.meiguiins.rest_with_java.service.PersonServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
@@ -19,6 +19,8 @@ public class PersonController {
     public List<Person> findAll(){
         return service.findAll();
     }
+
+    public Person findById(@PathVariable("id")Long id) {return service.findById(id);}
 
     @RequestMapping(
             method = RequestMethod.POST,
@@ -40,7 +42,7 @@ public class PersonController {
 
     @RequestMapping(value = "/{id}",
                     method = RequestMethod.DELETE)
-    public void delete(@PathVariable("id") String id){
+    public void delete(@PathVariable("id") Long id){
         service.delete(id);
     }
 

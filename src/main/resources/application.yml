@@ -16,5 +16,5 @@ spring:
 
 logging:
   level:
-    root: DEBUG
+    root: WARN
     #br.com.meiguiigfns: DEBUG

@@ -16,4 +16,5 @@ spring:
 
 logging:
   level:
-    br.com.meiguiins: DEBUG
+    root: DEBUG
+    #br.com.meiguiigfns: DEBUG
